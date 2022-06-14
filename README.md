@@ -1,3 +1,2 @@
 # SimulacionII_ESFM
-Ejercicios
-\\Tareas presentadas en Classroom
+*Ejercicios presentadas en Github y Tareas presentadas en Classroom*
